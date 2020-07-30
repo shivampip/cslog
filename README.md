@@ -10,10 +10,8 @@
 npm install --save cslog
 ```
 
-![screenshot](./screenshot.PNG | width=100)
-
-<img src="./ss1.PNG" width="80%">
-<img src="./ss2.PNG" width="80%">
+<img src="https://raw.githubusercontent.com/shivampip/cslog/master/ss1.PNG" width="80%">
+<img src="https://raw.githubusercontent.com/shivampip/cslog/master/ss1.PNG" width="80%">
 
 ## Usage
 

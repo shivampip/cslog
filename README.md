@@ -11,7 +11,7 @@ npm install --save cslog
 ```
 
 <img src="https://raw.githubusercontent.com/shivampip/cslog/master/ss1.PNG" width="80%">
-<img src="https://raw.githubusercontent.com/shivampip/cslog/master/ss1.PNG" width="80%">
+<img src="https://raw.githubusercontent.com/shivampip/cslog/master/ss2.PNG" width="80%">
 
 ## Usage
 
